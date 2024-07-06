@@ -1,3 +1,4 @@
+// Exercise link: https://leetcode.com/problems/subrectangle-queries/description/
 class SubrectangleQueries {
     rectangle: number[][];
 
