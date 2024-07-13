@@ -7,3 +7,5 @@ Implement the class ``SubrectangleQueries`` which receives a ``rows x cols`` rec
 
 2. ``getValue(int row, int col)`` 
 - Returns the current value of the coordinate ``(row,col)`` from the rectangle.
+
+[🔗 Exercise Link](https://leetcode.com/problems/subrectangle-queries/description/)
